@@ -8,6 +8,6 @@
 |Interest|Visual Design
 
 ---
-> Upcoming Designer
+> Upcoming Information Designer
 
 *Designing a better user experience*
