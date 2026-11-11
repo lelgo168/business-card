@@ -1,7 +1,7 @@
 ## Lamis Elgosbi
 **Information Design Student**
 
-|**Field**| **Details**
+|Field|Details
 |:-- |:--
 |Name| Lamis Elgosbi
 |Role|Information Design Student
