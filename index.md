@@ -5,7 +5,7 @@
 |:-- |:--
 |Name| Lamis Elgosbi
 |Role|Information Design Student
-Interest|Visual Design
+|Interest|Visual Design
 
 ---
 > Upcoming Designer
