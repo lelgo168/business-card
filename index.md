@@ -3,7 +3,7 @@
 
 |Field|Details
 |:-- |:--
-|Name| Lamis Elgosbi
+|Name|Lamis Elgosbi
 |Role|Information Design Student
 |Interest|Visual Design
 
